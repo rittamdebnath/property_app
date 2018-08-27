@@ -1,0 +1,302 @@
+{
+                "boards": {
+                    "allLoaded": true,
+                    "allLoading": false,
+                    "error": null,
+                    "items": {
+                        "maaya": {
+                            "_id": "5b653ea7ca00da2fdadd89a1",
+                            "name": "Maaya",
+                            "urlName": "maaya",
+                            "postCount": 5,
+                            "created": "2018-08-04T05:50:31.066Z",
+                            "contributorCount": 1,
+                            "settings": {
+                                "allowIdentified": false,
+                                "domain": null,
+                                "indexed": true,
+                                "private": false,
+                                "showVoterNames": true,
+                                "unlisted": false,
+                                "widgetURL": null
+                            },
+                            "categories": [],
+                            "viewerHasDismissedBoardOnboardingNUX": false,
+                            "strings": {
+                                "createCTA": "Create Post",
+                                "createHeading": "Create a Post",
+                                "description": "",
+                                "detailsField": "Details",
+                                "detailsPlaceholder": "Any additional details…",
+                                "titleField": "Title",
+                                "titlePlaceholder": "Short, descriptive title"
+                            },
+                            "token": "5a064c35-fcf5-4ea4-76f5-3195d36d8211",
+                            "tags": [{
+                                "_id": "5b7072d18de4cc060eeba716",
+                                "name": "dfsd",
+                                "postCount": 0,
+                                "urlName": "dfsd"
+                            }, {
+                                "_id": "5b7072d5c15b103316a7b7bf",
+                                "name": "sdfasf",
+                                "postCount": 1,
+                                "urlName": "sdfasf"
+                            }, {
+                                "_id": "5b7072d8c15b103316a7b7c2",
+                                "name": "werweq",
+                                "postCount": 0,
+                                "urlName": "werweq"
+                            }],
+                            "uncategorized": {
+                                "subscribed": true
+                            },
+                            "invites": []
+                        },
+                        "kjnbj": {
+                            "_id": "5b6fcad3e629655169212633",
+                            "name": "kjnbj",
+                            "urlName": "kjnbj",
+                            "postCount": 1,
+                            "created": "2018-08-12T05:51:15.297Z",
+                            "contributorCount": 1,
+                            "settings": {
+                                "allowIdentified": false,
+                                "domain": null,
+                                "indexed": true,
+                                "private": false,
+                                "showVoterNames": true,
+                                "unlisted": false,
+                                "widgetURL": null
+                            },
+                            "categories": [],
+                            "viewerHasDismissedBoardOnboardingNUX": false,
+                            "strings": {
+                                "createCTA": "Create Post",
+                                "createHeading": "Create a Post",
+                                "description": "",
+                                "detailsField": "Details",
+                                "detailsPlaceholder": "Any additional details…",
+                                "titleField": "Title",
+                                "titlePlaceholder": "Short, descriptive title"
+                            },
+                            "token": "12c7a343-dfa0-9e1c-a1e0-9be05f953925",
+                            "tags": [],
+                            "uncategorized": {
+                                "subscribed": true
+                            },
+                            "invites": []
+                        }
+                    },
+                    "lastUpdated": 1534671067783
+                },
+                "company": {
+                    "error": null,
+                    "lastUpdated": 1534671067728,
+                    "loading": false,
+                    "notFound": false,
+                    "_id": "5b653e97793556121e6e1d9c",
+                    "creatorID": "5b653e97793556121e6e1d9a",
+                    "name": "Self maya",
+                    "subdomain": "maaya",
+                    "tintColor": "#525df9",
+                    "postCount": 6,
+                    "logoURL": null,
+                    "faviconURL": null,
+                    "created": "2018-08-04T05:50:15.025Z",
+                    "contributorCount": 1,
+                    "companyCount": 0,
+                    "boardCount": 2,
+                    "__v": 0,
+                    "viewerIsMember": true,
+                    "authRedirectEnabled": false,
+                    "authRedirectURL": "",
+                    "showRoadmap": true,
+                    "sendUserReportEmails": true,
+                    "apiKey": "524f8d7e-3102-e6de-34fc-cda7c6d78b43",
+                    "domains": [],
+                    "intercom": null,
+                    "webhooks": [],
+                    "discount": null,
+                    "gsuite": null,
+                    "privateSSOKey": "5c24dd33-2267-3dcb-1f95-de422947a380",
+                    "slackChannels": [],
+                    "viewerReportFrequency": "daily",
+                    "viewerHasDismissedInviteTeammatesNUX": true,
+                    "inviteID": "af3e4b50-510a-043c-9665-3bfeea1ddfe4",
+                    "members": [{
+                        "_id": "5b653e97793556121e6e1d9a",
+                        "avatarURL": null,
+                        "created": "2018-08-04T05:50:15.009Z",
+                        "name": "maaya",
+                        "urlName": "absead",
+                        "email": "abseadmedia@gmail.com"
+                    }],
+                    "billingData": {
+                        "activeUntil": "2018-08-18T05:50:15.025Z",
+                        "cancelled": true,
+                        "hasCard": false,
+                        "invoiceEmail": "abseadmedia@gmail.com",
+                        "last4": null,
+                        "plan": null,
+                        "trialEnds": "2018-08-18T05:50:15.025Z"
+                    }
+                },
+                "cookies": {
+                    "__host": "maaya.canny.io",
+                    "__canny__sessionID": "6287e10b-77ce-cb06-a0af-96a1dafacbca",
+                    "__canny__userID": "5b653e97793556121e6e1d9a",
+                    "__canny__experimentID": "4cf33d6f-fd81-d773-8c69-b3936f7c6cf1"
+                },
+                "gsuiteGroups": null,
+                "jiraRules": null,
+                "issueSuggestions": {},
+                "mentionSuggestions": {},
+                "notifications": {
+                    "error": null,
+                    "lastUpdated": 1534671067752,
+                    "loading": false,
+                    "loadingMore": false,
+                    "hasNextPage": false,
+                    "items": [],
+                    "pages": 1,
+                    "unreadCount": 0
+                },
+                "posts": {
+                    "5b653ea7ca00da2fdadd89a1": {
+                        "test-3-1": {
+                            "error": null,
+                            "lastUpdated": 1534671067812,
+                            "loading": false,
+                            "notFound": false,
+                            "_id": "5b70718c8de4cc060eeba6f7",
+                            "authorID": "5b653e97793556121e6e1d9a",
+                            "boardID": "5b653ea7ca00da2fdadd89a1",
+                            "title": "test 3",
+                            "urlName": "test-3-1",
+                            "status": "complete",
+                            "score": 0,
+                            "details": "this is in progress",
+                            "created": "2018-08-12T17:42:36.281Z",
+                            "commentCount": 0,
+                            "board": {
+                                "_id": "5b653ea7ca00da2fdadd89a1",
+                                "name": "Maaya",
+                                "urlName": "maaya"
+                            },
+                            "viewerVote": 0
+                        },
+                        "test-3": {
+                            "error": null,
+                            "lastUpdated": 1534671067812,
+                            "loading": false,
+                            "notFound": false,
+                            "_id": "5b653fe6793556121e6e1dd9",
+                            "authorID": "5b653e97793556121e6e1d9a",
+                            "boardID": "5b653ea7ca00da2fdadd89a1",
+                            "title": "test 3",
+                            "urlName": "test-3",
+                            "status": "complete",
+                            "score": 1,
+                            "details": "tst3",
+                            "created": "2018-08-04T05:55:50.431Z",
+                            "commentCount": 1,
+                            "board": {
+                                "_id": "5b653ea7ca00da2fdadd89a1",
+                                "name": "Maaya",
+                                "urlName": "maaya"
+                            },
+                            "viewerVote": 1
+                        },
+                        "testing": {
+                            "error": null,
+                            "lastUpdated": 1534671067812,
+                            "loading": false,
+                            "notFound": false,
+                            "_id": "5b653f0b793556121e6e1db5",
+                            "authorID": "5b653e97793556121e6e1d9a",
+                            "boardID": "5b653ea7ca00da2fdadd89a1",
+                            "title": "testing",
+                            "urlName": "testing",
+                            "status": "complete",
+                            "score": 1,
+                            "details": "testing",
+                            "created": "2018-08-04T05:52:11.289Z",
+                            "commentCount": 2,
+                            "board": {
+                                "_id": "5b653ea7ca00da2fdadd89a1",
+                                "name": "Maaya",
+                                "urlName": "maaya"
+                            },
+                            "viewerVote": 1
+                        }
+                    }
+                },
+                "postQueries": {},
+                "reduxAsyncConnect": {
+                    "loaded": true,
+                    "loadState": {}
+                },
+                "roadmap": {
+                    "hasNextPage": false,
+                    "lastUpdated": 1534671067812,
+                    "loading": false,
+                    "loadingMore": false,
+                    "pages": 1,
+                    "posts": [{
+                        "boardID": "5b653ea7ca00da2fdadd89a1",
+                        "postURLName": "test-3-1"
+                    }, {
+                        "boardID": "5b653ea7ca00da2fdadd89a1",
+                        "postURLName": "test-3"
+                    }, {
+                        "boardID": "5b653ea7ca00da2fdadd89a1",
+                        "postURLName": "testing"
+                    }]
+                },
+                "routing": {
+                    "locationBeforeTransitions": {
+                        "pathname": "\u002Fadmin",
+                        "search": "",
+                        "hash": "",
+                        "action": "POP",
+                        "key": null,
+                        "query": {}
+                    }
+                },
+                "thirdPartyCompanies": {},
+                "thirdPartyCompanyQueries": {},
+                "userQueries": {},
+                "userSuggestions": {},
+                "users": {},
+                "viewer": {
+                    "error": null,
+                    "lastUpdated": 1534671067723,
+                    "loading": false,
+                    "loggedOut": false,
+                    "_id": "5b653e97793556121e6e1d9a",
+                    "avatarURL": null,
+                    "created": "2018-08-04T05:50:15.009Z",
+                    "name": "maaya",
+                    "urlName": "absead",
+                    "cannyBae": false,
+                    "email": "abseadmedia@gmail.com",
+                    "experimentID": "4cf33d6f-fd81-d773-8c69-b3936f7c6cf1",
+                    "cannyHash": "e7aeba32655069dcb130e4a54a8ea5ac428e81e2e0adf8ab593c8a0b845d3612",
+                    "intercomHash": "313ac07ac8cadfd04475111ae5124c772190669185be0ae4f0fbd606edcefcfa",
+                    "ssoToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdmF0YXJVUkwiOm51bGwsImVtYWlsIjoiYWJzZWFkbWVkaWFAZ21haWwuY29tIiwiaWQiOiI1YjY1M2U5Nzc5MzU1NjEyMWU2ZTFkOWEiLCJuYW1lIjoibWFheWEiLCJpYXQiOjE1MzQ2NzEwNjd9.r25ilBxfgxnvPqBd7DEprCC8EgMWcIe2aTZsQzzEluA",
+                    "companies": [{
+                        "_id": "5b653e97793556121e6e1d9c",
+                        "name": "Self maya",
+                        "subdomain": "maaya",
+                        "logoURL": null,
+                        "created": "2018-08-04T05:50:15.025Z",
+                        "contributorCount": 1,
+                        "boardCount": 2,
+                        "monthlySpend": 0
+                    }]
+                },
+                "voteQueries": {},
+                "voters": {},
+                "voterSuggestions": {}
+            }
